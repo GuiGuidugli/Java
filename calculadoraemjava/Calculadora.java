@@ -1,4 +1,5 @@
-// Calculadora em Java capaz de identificar o segundo número como 0 para evitar /0
+// Calculadora em Java capaz de identificar o 
+// segundo número como 0 para evitar divisão por zero.
 
 package calculadoraemjava;
 
@@ -36,8 +37,8 @@ public class Calculadora {
 
         }
 
-        System.out.println("Soma: " + sum + " Multiplicação: " + mult + " Subtração: " +
-         minus + " Divisão: " + div);
+        System.out.println("Soma: " + sum + " Multiplicação: " + mult +
+         " Subtração: " + minus + " Divisão: " + div);
         
     }
 }

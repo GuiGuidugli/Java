@@ -1,10 +1,10 @@
 // O conteúdo abaixo é apenas prática de exercícios e não faz parte ou compõe qualquer projeto ou aplicativo funcional.
 
-package prática;
+package escolha;
 
 import java.util.Scanner;
 
-public class Prática {
+public class Escolha {
 
     public static void main(String[] args) {
 
